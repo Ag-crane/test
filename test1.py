@@ -4,3 +4,4 @@ print("<출력>")
 print(name)
 print(school)
 
+###추가추가
