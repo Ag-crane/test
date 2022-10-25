@@ -3,4 +3,4 @@ school = input("학교 : ")
 print("<출력>")
 print(name)
 print(school)
-
+print('hello')
